@@ -25,13 +25,13 @@
 ![Captura de tela de 2022-03-13 22-36-36](https://user-images.githubusercontent.com/14335370/158090329-42657aa5-ab17-47b4-8885-caff8a22f758.png)
 
 ## Lista com linguagem, framework e/ou tecnologias usadas
-<li>
-HTML, CSS E JAVASCRIPT
-React
-Sistema de Rotas
-Styled-Components
-Npm para o radar na details
-</li>
+<ol>
+	<li>HTML, CSS E JAVASCRIPT</li>
+	<li>React</li>
+	<li>Sistema de Rotas</li>
+	<li>Styled-Components</li>
+	<li>Npm para o radar na details</li>
+</ol>
  
 ## IDE
 
