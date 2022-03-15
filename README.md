@@ -48,6 +48,7 @@ Visual Studio Code
        - npm install react-svg-radar-chart
        - npm install styled-components
        - npm install axios
+       - npm install react-router-dom
       
 ## 3 - Iniciando o projeto
 	- npm start
