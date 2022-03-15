@@ -3,7 +3,8 @@
 </h4>
 
 <ul>
-Project carried out together with:
+## Project carried out together with:
+	
 	<li><a href='https://www.linkedin.com/in/jaime-epifanio/'> Jaime Epifanio </a></li>
 	<li><a href='https://www.linkedin.com/in/heinrickcostta/'> Henrique Costa </a></li>
 </ul>
