@@ -2,16 +2,22 @@
 	Pokedex
 </h4>
 
+<h5>
+Project carried out together with:
+	 [Jaime Epifanio](https://www.linkedin.com/in/jaime-epifanio/)
+	 [Henrique Costa](https://www.linkedin.com/in/heinrickcostta/)
+</h5>
+
 ## Link Surge
 [Link](http://romantic-cobweb.surge.sh/)
 
-## Funcionalidades
+## Functionalities
 
-- [x] `Home` → O usuário recebe uma lista de pokemons vinda da API. Ele pode armazenar Pokemons em sua Pokedex clicando em cada um.
-- [x] `Pokedex` → O usuário é capaz de ver os Pokemons que foram adicionados em sua Pokedex. 
-- [x] `Detalhe do Pokemon` → É possível ir para uma página de detalhes do Pokemon ao clicar no mesmo, estando tanto na Home quanto na Pokedex.
-- [x] `Páginas`→ Cada página contém 20 Pokemons, e pra cada nova página, uma nova requisição por mais 20 Pokemons.
-- [x] `Responsividade`→ Responsivo para mobile.
+- [x] `Home` → Each page contains 20 Pokemons, and for each new page, a new request for 20 more Pokemons. 
+- [x] `Add to Pokedex`The user receives a list of pokemons from the API. He can store Pokemons in his Pokedex by clicking on each one.
+- [x] `Pokedex` → User is able to see Pokemons that have been added to their Pokedex. 
+- [x] `Pokemon Detail` → It is possible to go to a Pokemon details page by clicking on it, being in both Home and Pokedex.
+- [x] `Responsive`→ Responsive for mobile.
 
 ---
 ## Web
@@ -24,33 +30,33 @@
 ### PokemonDetails
 ![DetailsPage](https://user-images.githubusercontent.com/94663972/158402436-0de47fc3-cf07-41e6-bf43-7e38b1f028f9.png)
 
-## Lista com linguagem, framework e/ou tecnologias usadas
+## List with language, framework and/or technologies used
 <ul>
-	<li>HTML, CSS E JAVASCRIPT</li>
+	<li>HTML, CSS AND JAVASCRIPT</li>
 	<li>React</li>
-	<li>Sistema de Rotas</li>
+	<li>Route System</li>
 	<li>Styled-Components</li>
-	<li>Npm para o radar na details</li>
+	<li> <b> Npm </b>  for the radar in details</li>
 </ul>
  
 ## IDE
 
 Visual Studio Code
 
-## Como utilizar o projeto com NPM
+## How to use the project with NPM
 
-## 1 - Clonar o repositório
+## 1 - Clone the repository
 	- git clone https://github.com/matheuscastro77/pokedex.git
-## 2 - Instalar as dependências e iniciar o projeto
+## 2 - Install the dependencies and start the project
 
-## 2.1 - Dependências para serem instaladas:
+## 2.1 - Dependencies to be installed:
        - npm install
        - npm install react-svg-radar-chart
        - npm install styled-components
        - npm install axios
-       - npm install react-router-dom
+       - npm install react-router-domnpm
       
-## 3 - Iniciando o projeto
+## 3 - Starting the project
 	- npm start
       
   
