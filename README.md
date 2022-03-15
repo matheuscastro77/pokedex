@@ -1,6 +1,6 @@
-<h4 align="center"> 
+<h2 align="center"> 
 	Pokedex
-</h4>
+</h2>
 
 ## Project carried out together with:
 <ul>
