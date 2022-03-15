@@ -16,13 +16,13 @@
 ---
 ## Web
 ### Home
-![Captura de tela de 2022-03-13 22-29-21](https://user-images.githubusercontent.com/14335370/158089901-5c8d42bc-5438-4846-9b81-7e9fd3fa8242.png)
+![home](https://user-images.githubusercontent.com/94663972/158402424-43469ade-f3fc-404e-bd73-3452fa7e8a05.png)
 ### ListPokemons
-![Captura de tela de 2022-03-13 22-33-22](https://user-images.githubusercontent.com/14335370/158090068-9c7302b4-1f65-46b9-93bf-a3941c5d4072.png)
+![pokemonPage](https://user-images.githubusercontent.com/94663972/158402432-820467bc-436f-437a-9d27-acb934b309ce.png)
 ### Pokedex
-![Captura de tela de 2022-03-13 22-35-19](https://user-images.githubusercontent.com/14335370/158090211-d5de2853-02b4-4dbd-9613-3b8e70489340.png)
+![Pokedex](https://user-images.githubusercontent.com/94663972/158402440-5b9b25e8-c00f-4044-997d-18d39faff12b.png)
 ### PokemonDetails
-![Captura de tela de 2022-03-13 22-36-36](https://user-images.githubusercontent.com/14335370/158090329-42657aa5-ab17-47b4-8885-caff8a22f758.png)
+![DetailsPage](https://user-images.githubusercontent.com/94663972/158402436-0de47fc3-cf07-41e6-bf43-7e38b1f028f9.png)
 
 ## Lista com linguagem, framework e/ou tecnologias usadas
 <ul>
