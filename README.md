@@ -4,8 +4,8 @@
 
 <h5>
 Project carried out together with:
-	 [Link](https://www.linkedin.com/in/jaime-epifanio/)
-	 [Henrique Costa](https://www.linkedin.com/in/heinrickcostta/)
+<a> Jaime Epifanio href='https://www.linkedin.com/in/jaime-epifanio/'</a>
+[Henrique Costa](https://www.linkedin.com/in/heinrickcostta/)
 </h5>
 
 ## Link Surge
