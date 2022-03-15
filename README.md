@@ -1,5 +1,5 @@
 <h4 align="center"> 
-	🚧  Pokedex Projeto Concluido 🚀 🚧
+	 Pokedex Projeto 🚀 🚧
 </h4>
 
 ## Link Surge
