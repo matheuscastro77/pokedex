@@ -1,11 +1,11 @@
 <h4 align="center"> 
-	 Pokedex 🚀 🚧
+	Pokedex
 </h4>
 
 ## Link Surge
 [Link](http://romantic-cobweb.surge.sh/)
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - [x] `Home` → O usuário recebe uma lista de pokemons vinda da API. Ele pode armazenar Pokemons em sua Pokedex clicando em cada um.
 - [x] `Pokedex` → O usuário é capaz de ver os Pokemons que foram adicionados em sua Pokedex. 
@@ -23,3 +23,33 @@
 ![Captura de tela de 2022-03-13 22-35-19](https://user-images.githubusercontent.com/14335370/158090211-d5de2853-02b4-4dbd-9613-3b8e70489340.png)
 ### PokemonDetails
 ![Captura de tela de 2022-03-13 22-36-36](https://user-images.githubusercontent.com/14335370/158090329-42657aa5-ab17-47b4-8885-caff8a22f758.png)
+
+## Lista com linguagem, framework e/ou tecnologias usadas
+
+HTML, CSS E JAVASCRIPT
+React
+Sistema de Rotas
+Styled-Components
+Npm para o radar na details
+
+## IDE
+
+Visual Studio Code
+
+## Como utilizar o projeto com NPM
+
+## 1 - Clonar o repositório
+	- git clone https://github.com/matheuscastro77/pokedex.git
+## 2 - Instalar as dependências e iniciar o projeto
+
+## 2.1 - Dependências para serem instaladas:
+       - npm install
+       - npm install react-svg-radar-chart
+       - npm install styled-components
+       - npm install axios
+      
+## 3 - Iniciando o projeto
+	- npm start
+      
+  
+       
