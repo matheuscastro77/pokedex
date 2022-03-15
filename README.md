@@ -7,19 +7,11 @@
 
 ## ⚙️ Funcionalidades
 
-- [x] `Criar Wireframe`.
-- [x] `Conhecendo a API`.
-- [x]  `Headers` 
-- [x] `Home` → o usuário deve receber uma lista de pokemons vinda da API. Ele pode armazenar Pokemons em sua Pokedex clicando em cada um.
-- [x] `Pokedex` → o usuário deve pode ver os Pokemons que foram adicionados em sua Pokedex. 
-- [x] `Detalhe do Pokemon` →Deve ser possível ir para uma página de detalhes do Pokemon ao clicar no mesmo, estando tanto na Home quanto na Pokedex.
----
-### 🏅  Desafios
-
-- [x]   Criar "páginas" de Pokemons. Cada página deve ter 30 Pokemons, e pra cada nova página, uma nova requisição por mais 20 Pokemons deve acontecer
-- [ ]  Criem uma nova funcionalidade na página Pokedex em que é possível o usuário clicar em dois Pokemons para compará-los e dizer qual deles sairia vitorioso em uma eventual batalha Pokemon. Para isso, use a soma geral dos elementos do array de stats (HP, attack, defense, special-attack, special-defense e speed): aquele Pokemon, dentre os dois pokemons selecionados pelo usuário, que possuir uma soma maior dos stats deve ser o vitorioso na batalha
-- [x]  Se vocês não fizeram durante a parte básica, faça o seu projeto ser responsivo para mobile.
-- [ ]  ISejam criativos e criem novas funcionalidades para a batalha Pokémon. 
+- [x] `Home` → O usuário recebe uma lista de pokemons vinda da API. Ele pode armazenar Pokemons em sua Pokedex clicando em cada um.
+- [x] `Pokedex` → O usuário é capaz de ver os Pokemons que foram adicionados em sua Pokedex. 
+- [x] `Detalhe do Pokemon` → É possível ir para uma página de detalhes do Pokemon ao clicar no mesmo, estando tanto na Home quanto na Pokedex.
+- [x] `Páginas`→ Cada página contém 20 Pokemons, e pra cada nova página, uma nova requisição por mais 20 Pokemons.
+- [x] `Responsividade`→ Responsivo para mobile.
 
 ---
 ## Web
