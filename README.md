@@ -2,12 +2,11 @@
 	Pokedex
 </h4>
 
-<ul>
 ## Project carried out together with:
-	
+	<ul>
 	<li><a href='https://www.linkedin.com/in/jaime-epifanio/'> Jaime Epifanio </a></li>
 	<li><a href='https://www.linkedin.com/in/heinrickcostta/'> Henrique Costa </a></li>
-</ul>
+	</ul>
 
 ## Link Surge
 [Link](http://romantic-cobweb.surge.sh/)
