@@ -4,7 +4,7 @@
 
 <h5>
 Project carried out together with:
-<a> Jaime Epifanio href='https://www.linkedin.com/in/jaime-epifanio/'</a>
+<a href='https://www.linkedin.com/in/jaime-epifanio/'> Jaime Epifanio </a>
 [Henrique Costa](https://www.linkedin.com/in/heinrickcostta/)
 </h5>
 
