@@ -4,7 +4,7 @@
 
 <h5>
 Project carried out together with:
-	 [Jaime Epifanio](https://www.linkedin.com/in/jaime-epifanio/)
+	 [Link](https://www.linkedin.com/in/jaime-epifanio/)
 	 [Henrique Costa](https://www.linkedin.com/in/heinrickcostta/)
 </h5>
 
