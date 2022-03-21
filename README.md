@@ -20,7 +20,7 @@
 - [x] `Responsive`→ Responsive for mobile.
 
 ---
-## Web
+## Website
 ### Home
 ![home](https://user-images.githubusercontent.com/94663972/158402424-43469ade-f3fc-404e-bd73-3452fa7e8a05.png)
 ### ListPokemons
