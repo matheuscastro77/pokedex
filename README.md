@@ -14,7 +14,7 @@
 ## Functionalities
 
 - [x] `Home` → Each page contains 20 Pokemons, and for each new page, a new request for 20 more Pokemons. 
-- [x] `Add to Pokedex`The user receives a list of pokemons from the API. He can store Pokemons in his Pokedex by clicking on each one.
+- [x] `Add to Pokedex` → The user receives a list of pokemons from the API. He can store Pokemons in his Pokedex by clicking on each one.
 - [x] `Pokedex` → User is able to see Pokemons that have been added to their Pokedex. 
 - [x] `Pokemon Detail` → It is possible to go to a Pokemon details page by clicking on it, being in both Home and Pokedex.
 - [x] `Responsive`→ Responsive for mobile.
@@ -54,7 +54,7 @@ Visual Studio Code
        - npm install react-svg-radar-chart
        - npm install styled-components
        - npm install axios
-       - npm install react-router-domnpm
+       - npm install react-router-dom
       
 ## 3 - Starting the project
 	- npm start
