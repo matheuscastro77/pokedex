@@ -3,28 +3,42 @@ import background from '../../assets/background.svg'
 
 export const Container = styled.div`
     margin: 50px auto;
-    width: 90%;
-    height: 92vh;
+    max-width: 90%;
+    max-height: 92vh;
     grid-gap: 15px;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 4fr));    
+    justify-items: center;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 4fr));
 `
 
 export const Card = styled.div`
     background-image: url(${background}) ;
     background-size: cover ;
-    max-height: 100% ;
-    max-width: 80% ;
+    max-width: 25vw ;
     margin: 10px;
     border-radius: 10px;
     padding: 10px;
     color: #FFCB04;
     font-weight: bold;
-
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-between;    
+    justify-content: space-between;
+
+    @media screen and (max-width: 360px){
+        min-width: 80% ;   
+        min-height: 40vh;
+    }   
+
+    @media screen and (max-width: 412px){
+        min-width: 80% ;   
+        min-height: 40vh;
+    }
+
+    @media screen and (max-width: 600px){
+        min-width: 80% ;   
+        min-height: 40vh;
+    }
 `
 export const Button = styled.button`
     border: 0;

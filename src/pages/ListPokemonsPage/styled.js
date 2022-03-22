@@ -14,8 +14,8 @@ export const ContainerCard = styled.div`
 export const Card = styled.div`
     background-image: url(${background}) ;
     background-size: cover ;
-    min-height: 90%;
-    margin: 10px;
+    height: 95%;
+    margin: 20px 0px 20px 20px;
     border-radius: 10px;
     padding: 10px;
     color: #FFCB04;

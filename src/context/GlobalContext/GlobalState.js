@@ -3,6 +3,7 @@ import axios from "axios";
 import GlobalStateContext from "./GlobalStateContext"
 const GlobalState = (props) => {
     const [pokemons, setPokemons] = useState([])
+    const [pokemons2, setPokemons2] = useState([])
     const [pokedex, setPokedex] = useState([])
     const [pokemonList, setPokemonList] = useState([])
     const [pokemonDetails, setPokemonDetails] = useState([])
@@ -35,12 +36,13 @@ const GlobalState = (props) => {
                     image
                 }}),
         );
-        setPokemons(loadingPokemon);
+        setPokemons(loadingPokemon)
+        setPokemons2(loadingPokemon);
     }
 
    
     return (
-        <GlobalStateContext.Provider value={{pokemons, pagination, setPagination, setPokemons, setPokedex, pokemonList, setPokemonList, pokemonDetails, setPokemonDetails}}>
+        <GlobalStateContext.Provider value={{pokemons, pagination, setPagination, setPokemons,pokemons2, setPokemons2, setPokedex, pokemonList, setPokemonList, pokemonDetails, setPokemonDetails}}>
             {props.children}
         </GlobalStateContext.Provider> 
     )

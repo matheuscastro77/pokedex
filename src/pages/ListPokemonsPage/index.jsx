@@ -4,6 +4,7 @@ import GlobalStateContext from "../../context/GlobalContext/GlobalStateContext"
 import { useNavigate } from 'react-router-dom'
 import {Container, ContainerCard, Card, Button, Img } from './styled'
 import { List } from 'antd'
+import loading from '../../assets/loading.gif'
 
 function ListPokemonsPage() {
   const {pokemons, setPokemons, pokemonList, setPokemonList}=useContext(GlobalStateContext)
@@ -48,7 +49,7 @@ function ListPokemonsPage() {
         pageSize: 20,
       }}
       dataSource={pokemons}
-      renderItem={res => (
+      renderItem={res  => (
             <Card key={res.id}>
                 <p>{res.name[0].toUpperCase() + res.name.slice(1)}</p>
                 <Img src={res.image} alt={res.name}/>

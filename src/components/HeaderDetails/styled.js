@@ -13,7 +13,10 @@ export const Container = styled.div`
 
 export const Img = styled.img`
     width: 18%;
-    
+
+  @media screen and (max-width: 740px){
+    width: 28%;
+  }
 `
 
 export const Button = styled.button`
@@ -30,8 +33,30 @@ export const Button = styled.button`
   }
     font-weight: bold;
     margin: 10px;
+
+  @media screen and (max-width: 360px){
+    height: 35px;
+    font-size: 0.7rem;
+  }
+
+  @media screen and (max-width: 412px){
+    height: 35px;
+    font-size: 0.7rem;
+  }
+
+  @media screen and (max-width: 740px){
+    height: 30px;
+    font-size: 0.6rem;
+    max-width: 40% ;
+  }
+
+  @media screen and (max-width: 844px){
+    height: 35px;
+    font-size: 0.7rem;
+  }
+
 `
 
 export const ContainerButtons = styled.div`
-
+    display: flex;
 `

@@ -9,7 +9,7 @@ import 'react-svg-radar-chart/build/css/index.css'
 
 function DetailsPages() {
 
-  const {pokemons, pokemonList, setPokemonList, setPokemons} = useContext(GlobalStateContext)
+  const {pokemons2, pokemonList, setPokemonList, setPokemons} = useContext(GlobalStateContext)
 
   const { name } = useParams()
     
@@ -28,7 +28,7 @@ function DetailsPages() {
   return numberWithZeroes;
 }
 
-  const teste = pokemons.filter((teste2) => {
+  const teste = pokemons2.filter((teste2) => {
     return name === teste2.name
   })
 
@@ -100,7 +100,7 @@ const onClickAdd = ((pokeToAdd)=>{
       setPokemonList(listaPokes)
       console.log(pokemonList)
 
-      const newPokemonList = pokemons.filter((pokemon)=>{ //removendo da home
+      const newPokemonList = pokemons2.filter((pokemon)=>{ //removendo da home
         return pokemon.name !== pokeToAdd.name
     })
     setPokemons(newPokemonList)
@@ -114,7 +114,7 @@ const onClickAdd = ((pokeToAdd)=>{
       <HeaderDetails />
       <Container>
         <CardLeft>
-        {pokemons.map((pokemon) => {
+        {pokemons2.map((pokemon) => {
       if(name === pokemon.name ){
         return <DivMain key={pokemon.id}>
         <DivTittleStats><TittleStats>Tamanho</TittleStats></DivTittleStats>
@@ -133,7 +133,7 @@ const onClickAdd = ((pokeToAdd)=>{
     })}
         </CardLeft>
         <CardCenter>
-     {pokemons.map((pokemon) => {
+     {pokemons2.map((pokemon) => {
       if(name === pokemon.name){
         return <DivCardCenter  key={pokemon.name}>
         <DivId><ID>#{addZeroes(pokemon.id, 3)}</ID></DivId>
