@@ -9,7 +9,7 @@
 </ul>
 
 ## Link Surge
-[Link](calculating-point.surge.sh/)
+[Link](chttp://calculating-point.surge.sh/)
 
 ## Functionalities
 
