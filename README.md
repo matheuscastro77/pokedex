@@ -9,7 +9,7 @@
 </ul>
 
 ## Link Surge
-[Link](fallacious-development.surge.sh/)
+[Link](calculating-point.surge.sh/)
 
 ## Functionalities
 
