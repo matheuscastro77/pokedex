@@ -51,10 +51,6 @@ Visual Studio Code
 
 ## 2.1 - Dependencies to be installed:
        - npm install
-       - npm install react-svg-radar-chart
-       - npm install styled-components
-       - npm install axios
-       - npm install react-router-dom
       
 ## 3 - Starting the project
 	- npm start
