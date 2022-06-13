@@ -36,7 +36,6 @@
 	<li>React</li>
 	<li>Route System</li>
 	<li>Styled-Components</li>
-	<li> <b> Npm </b>  for the radar in details</li>
 </ul>
  
 ## IDE
