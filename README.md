@@ -8,7 +8,7 @@
 	<li><a href='https://www.linkedin.com/in/heinrickcostta/'> Henrique Costa </a></li>
 </ul>
 
-## Link Surge
+## Link
 [Link](http://calculating-point.surge.sh/)
 
 ## Functionalities
