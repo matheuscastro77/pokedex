@@ -9,7 +9,7 @@
 </ul>
 
 ## Link
-[Link](http://calculating-point.surge.sh/)
+[Link](https://pokedex-ebon-iota.vercel.app/)
 
 ## Functionalities
 
