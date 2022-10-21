@@ -2,12 +2,6 @@
 	Pokedex
 </h2>
 
-## Project carried out together with:
-<ul>
-	<li><a href='https://www.linkedin.com/in/jaime-epifanio/'> Jaime Epifanio </a></li>
-	<li><a href='https://www.linkedin.com/in/heinrickcostta/'> Henrique Costa </a></li>
-</ul>
-
 ## Link
 [Link](https://pokedex-ebon-iota.vercel.app/)
 
